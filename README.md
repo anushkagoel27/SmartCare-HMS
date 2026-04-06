@@ -61,7 +61,7 @@ Unlike traditional hospital systems that mainly handle appointments and billing,
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/singh-deepanshu-578/SmartCare-HMS.git
+https://github.com/anushkagoel27/SmartCare-HMS.git
 
 ```
 
